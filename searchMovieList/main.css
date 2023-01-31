@@ -1,0 +1,17 @@
+.api{
+  font-size: 30px;
+  font-weight: 900;
+  margin-left: 10px;
+}
+
+#movies{
+  border: solid 3px #000;
+  margin: 10px;
+  padding: 10px;
+}
+
+#movieNm{
+  font-weight: 900;
+  font-size: 20px;
+  margin-bottom: 0;
+}
