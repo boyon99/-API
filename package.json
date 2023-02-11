@@ -1,0 +1,23 @@
+{
+  "name": "kofic-open-api",
+  "version": "1.0.0",
+  "description": "영화 진흥 위원회 오픈 API을 활용하기 위한 repo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyon99/KOFIC-OPEN-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyon99/KOFIC-OPEN-API/issues"
+  },
+  "homepage": "https://github.com/boyon99/KOFIC-OPEN-API#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
