@@ -16,7 +16,7 @@ fetch(url)
       div.id = 'movies'
 
       // api를 리스트에 담기
-      search_movie_list = item.boxOfficeResult.weeklyBoxOfficeList[i]
+      let search_movie_list = item.boxOfficeResult.weeklyBoxOfficeList[i]
 
       // 요소 생성
       let movieNm = document.createElement('p')
